@@ -38,4 +38,4 @@ This project is licensed under the **GNU General Public License v3.0**. See the 
 
 If you use this repository or its contents in your work, please cite:
 
-Hutchinson, K., & Schlessinger, A. (Year). Comprehensive Characterization of LAT1 Cholesterol Binding Sites. *Journal of Chemical Theory and Computation*. [https://pubs.acs.org/doi/10.1021/acs.jctc.3c01391].
+Hutchinson, K., & Schlessinger, A. (Year). Comprehensive Characterization of LAT1 Cholesterol Binding Sites. *Journal of Chemical Theory and Computation*. [link](https://pubs.acs.org/doi/10.1021/acs.jctc.3c01391)
